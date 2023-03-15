@@ -1,6 +1,6 @@
 import React from "react";
 
-const About = ({image="via.placeholder.com/215", about}) => {
+const About = ({image="https://via.placeholder.com/215", about}) => {
     return (
         <div>
             <aside>
